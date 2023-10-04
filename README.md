@@ -1,6 +1,6 @@
 # RCTN-KS08-017
 
-calculator app sederhana
+calculator app
 -HTML
 -CSS
 -DOM
