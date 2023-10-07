@@ -2,4 +2,4 @@
 
 calculator app
 1. clone repository
-2. buka index.html dengan brwoser
+3. buka index.html dengan browser
